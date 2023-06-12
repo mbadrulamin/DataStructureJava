@@ -31,4 +31,4 @@ As an open-source repository, I welcome contributions from fellow programmers. I
 
 Happy coding!
 
-*Note: This repository is for educational purposes and is not intended for production use.
+*Note: This repository is for educational purposes and is not intended for production use.*
