@@ -1,3 +1,5 @@
+# Data Structures in Java
+
 Welcome to my repository! Here, you will find a collection of Java programs focusing on various data structures. These programs were created during my studies as a means to gain a deeper understanding of data structures and their implementation in Java.
 
 ## Repository Highlights
